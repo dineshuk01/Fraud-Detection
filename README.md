@@ -268,10 +268,3 @@ Fraud_Detection_Project/
 
 ---
 
-## 🏆 15. Resume Description (Ready to Use)
-
-> Built an end-to-end fraud detection system using XGBoost with threshold tuning on highly imbalanced financial data, achieving high fraud recall, and designed an interactive Power BI dashboard for real-time fraud monitoring.
-
----
-
-⭐ If you find this project useful, give it a star and feel free to fork or extend it!
