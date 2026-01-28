@@ -239,9 +239,7 @@ Fraud_Detection_Project/
 │
 ├── creditcard.csv
 ├── fraud_detection.ipynb
-├── fraud_predictions.csv
-├── README.md
-└── fraud_env/
+
 ```
 
 ---
